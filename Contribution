@@ -1,0 +1,9 @@
+
+## Additional Features (not implemented due to constraints):
+- **Advanced Parameterization**: Implement more complex physics calculations if needed.
+- **Configuration File**: Allow users to specify parameters via a configuration file.
+- **Web Interface**: Develop a web interface for easier access and broader reach.
+- **Performance Optimization**: Optimize the code for handling large scale calculations.
+
+This design ensures the package is easy to use, extend, and maintain, catering to a wide range of users and future contributors.
+The inclusion of Tkinter GUI makes it accesible to users who prefer a graphical interface, while the command line interface provides flexibility for different use cases.
